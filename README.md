@@ -8,5 +8,10 @@
 #### [货币制度 (https://github.com/hibabyv/monetary_principle/blob/main/MonetarySystem.md)](https://github.com/hibabyv/monetary_principle/blob/main/MonetarySystem.md)
 #### [货币清算体系弊端 (https://github.com/hibabyv/monetary_principle/blob/main/CurrencyClearingIssue.md)](https://github.com/hibabyv/monetary_principle/blob/main/CurrencyClearingIssue.md)
 
+语言问题申明：由于我没有足够时间和物质条件来写成中文以外的其他语言，所以文章的中文就不翻译了，并非是出于地缘政治因素。<br>
+Language Issue Declaration: I don't have enough time and material foundation to write into other languages except Chinese. So the Chinese words of this article have not been translated. It is not because of geopolitics.
+
 作者：报天下之公的一个人 <br>
 著作归属：世界人权
+
+Belong to: World Human Rights
